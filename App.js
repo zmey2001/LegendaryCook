@@ -8,6 +8,9 @@ import Registrationpage from './pages/Registrationpage';
 import Privateofficepage from './pages/Privateofficepage';
 
 
+
+
+dkdkddkdk
 const Stack = createStackNavigator();
 
 const App = () => {
